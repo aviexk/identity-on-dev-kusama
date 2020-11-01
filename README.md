@@ -1,3 +1,5 @@
+## Challenge Submission
+![Screen Shot 2020-11-02 at 4 12 03 AM](https://user-images.githubusercontent.com/18153854/97817343-c7209800-1cc1-11eb-909c-7826097119a0.png)
 
 ## 🧑‍💻 [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version
 
